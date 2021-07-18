@@ -1,0 +1,20 @@
+.cabecalho {
+  background-color: black;
+}
+
+#titulo {
+  font-family: sans-serif;
+  font-size: 18pt;
+  color: blue;
+  text-align: center;
+}
+
+#texto {
+  font-family: sans-serif;
+  color: white;
+}
+
+.corpo {
+  background-color: white;
+  display: flex;
+}
